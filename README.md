@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Aspiring DevOps Engineer
+Computer Science Graduate
